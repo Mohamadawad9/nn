@@ -1,0 +1,26 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.home-page{
+height: 100vh;
+/* background-image:url(../images/download\ \(1\).jpg) ; */
+background: linear-gradient(45deg,white,rgb(161, 4, 209),crimson);
+
+}
+.home-page-item{
+border: 1px solid black;
+border-radius: 30px ;
+width: 300px;
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+padding: 120px;
+text-align: center;
+text-transform: capitalize;
+color: lawngreen;
+
+}
+.adnan{color: aqua;}
